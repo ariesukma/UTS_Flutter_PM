@@ -38,7 +38,7 @@ class AriesUTSApp extends StatelessWidget {
               
               return Container(
                 decoration: BoxDecoration(
-                  color: Colors.blue[100],
+                  color: const Color.fromARGB(255, 0, 0, 0),
                   borderRadius: BorderRadius.circular(12),
                 ),
                 child: Center(
